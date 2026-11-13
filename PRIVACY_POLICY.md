@@ -2,7 +2,7 @@
 
 **Last Updated:** January 29, 2026
 
-Welcome to **Vyb** (also referred to as "CampusConnect"), a social networking and dating platform designed for college students. Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your information when you use our mobile application and services.
+Welcome to **Vyb**, a social networking and dating platform designed for college students. Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your information when you use our mobile application and services.
 
 ## 1. Information We Collect
 We collect information that you provide directly to us, as well as information generated through your use of the app:

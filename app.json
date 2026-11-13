@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Vyb",
-    "slug": "campusconnect",
+    "slug": "vyb",
     "version": "1.1.1",
     "orientation": "portrait",
     "icon": "./assets/vyb-logo-new.png",
@@ -14,10 +14,10 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.campusconnect.app"
+      "bundleIdentifier": "com.vyb.app"
     },
     "android": {
-      "package": "com.campusconnect.app",
+      "package": "com.vyb.app",
       "versionCode": 12,
       "googleServicesFile": "./google-services.json",
       "adaptiveIcon": {
@@ -55,15 +55,15 @@
       [
         "expo-image-picker",
         {
-          "photosPermission": "Allow CampusConnect to access your photos for profile and posts.",
-          "cameraPermission": "Allow CampusConnect to use your camera to take profile and post photos."
+          "photosPermission": "Allow Vyb to access your photos for profile and posts.",
+          "cameraPermission": "Allow Vyb to use your camera to take profile and post photos."
         }
       ],
       "expo-font",
       "@react-native-firebase/app",
       "@react-native-firebase/crashlytics"
     ],
-    "scheme": "campusconnect",
+    "scheme": "vyb",
     "experiments": {
       "typedRoutes": true
     },

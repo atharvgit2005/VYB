@@ -1,7 +1,7 @@
 
-  # CampusConnect UI/UX Design
+  # VYB UI/UX Design
 
-  This is a code bundle for CampusConnect UI/UX Design. The original project is available at https://www.figma.com/design/XGcqCWWHKVW47maQR3DxUe/CampusConnect-UI-UX-Design.
+  This is a code bundle for VYB UI/UX Design.
 
   ## Running the code
 

@@ -22,7 +22,7 @@ export function Sidebar({ currentView, onViewChange }: Props) {
       {/* Logo */}
       <div className="mb-8 mt-4">
         <h1 className="text-2xl font-semibold text-[#8B6F47]">
-          CampusConnect
+          VYB
         </h1>
       </div>
 

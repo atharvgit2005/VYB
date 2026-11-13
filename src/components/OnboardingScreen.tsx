@@ -11,9 +11,9 @@ export function OnboardingScreen({ onGetStarted }: Props) {
       <div className="flex items-center justify-between p-6">
         <div className="flex items-center gap-2">
           <div className="w-8 h-8 bg-[#D4FF00] rounded-lg flex items-center justify-center">
-            <span className="text-black font-bold text-lg">C</span>
+            <span className="text-black font-bold text-lg">V</span>
           </div>
-          <h1 className="text-xl font-bold text-black">CampusConnect</h1>
+          <h1 className="text-xl font-bold text-black">VYB</h1>
         </div>
         <button className="text-sm text-gray-600">Skip</button>
       </div>
@@ -77,7 +77,7 @@ export function OnboardingScreen({ onGetStarted }: Props) {
             Best Social App to Make<br />New Friends
           </h2>
           <p className="text-gray-600 text-sm leading-relaxed max-w-xs mx-auto">
-            With CampusConnect you will find new friends from various colleges and events at ADYPU
+            With VYB you will find new friends from various colleges and events at ADYPU
           </p>
         </motion.div>
 

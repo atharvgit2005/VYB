@@ -177,7 +177,7 @@ export const authAPI = {
   endBlindSession: (sessionId: string) => request(`/blind/session/${sessionId}/end`, 'POST'),
 
   // Upload (Cloudinary)
-  uploadImage: (image: string, folder: string = 'campusconnect') => request('/upload', 'POST', { image, folder }),
+  uploadImage: (image: string, folder: string = 'vyb') => request('/upload', 'POST', { image, folder }),
 
   // Stories
   getStories: () => request('/stories', 'GET'),

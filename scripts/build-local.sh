@@ -1,4 +1,4 @@
-# Fast Local Build Script for CampusConnect
+# Fast Local Build Script for VYB
 # Run this for quick local APK builds (2-4 minutes after first build)
 
 echo "🚀 Starting local Android build..."

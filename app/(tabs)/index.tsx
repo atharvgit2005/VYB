@@ -50,7 +50,7 @@ const posts = [
 const suggestions = [
   { id: '1', username: 'shivam_dev', subtitle: 'Followed by arjun.m + 2 more', avatar: 'https://i.pravatar.cc/150?img=15' },
   { id: '2', username: 'akshanshu_ui', subtitle: 'Suggested for you', avatar: 'https://i.pravatar.cc/150?img=16' },
-  { id: '3', username: 'tara_design', subtitle: 'New to CampusConnect', avatar: 'https://i.pravatar.cc/150?img=17' },
+  { id: '3', username: 'tara_design', subtitle: 'New to VYB', avatar: 'https://i.pravatar.cc/150?img=17' },
   { id: '4', username: 'krishna_art', subtitle: 'Followed by neha.gupta', avatar: 'https://i.pravatar.cc/150?img=18' },
   { id: '5', username: 'rohit_gym', subtitle: 'Suggested for you', avatar: 'https://i.pravatar.cc/150?img=19' },
 ];
@@ -123,7 +123,7 @@ const RightSidebar = () => (
     <View style={styles.footer}>
       <Text style={styles.footerText}>About • Help • Press • API • Jobs • Privacy • Terms</Text>
       <Text style={styles.footerText}>Locations • Language • Meta Verified</Text>
-      <Text style={[styles.footerText, { marginTop: 16 }]}>© 2026 CAMPUSCONNECT</Text>
+      <Text style={[styles.footerText, { marginTop: 16 }]}>© 2026 VYB</Text>
     </View>
   </View>
 );

@@ -22,9 +22,9 @@ export default function OnboardingScreen() {
         <View style={styles.header}>
           <View style={styles.logoContainer}>
             <View style={styles.logoBox}>
-              <Text style={styles.logoText}>C</Text>
+              <Text style={styles.logoText}>V</Text>
             </View>
-            <Text style={styles.logoTitle}>CampusConnect</Text>
+            <Text style={styles.logoTitle}>VYB</Text>
           </View>
           <TouchableOpacity onPress={() => router.replace('/auth')}>
             <Text style={styles.skipText}>Skip</Text>
@@ -72,7 +72,7 @@ export default function OnboardingScreen() {
           <Animated.View entering={FadeInDown.delay(400)} style={styles.textContent}>
             <Text style={styles.title}>Best Social App to Make{'\n'}New Friends</Text>
             <Text style={styles.subtitle}>
-              With CampusConnect you will find new friends from various colleges and events at ADYPU
+              With VYB you will find new friends from various colleges and events at ADYPU
             </Text>
           </Animated.View>
 

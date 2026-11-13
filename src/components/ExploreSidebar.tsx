@@ -112,7 +112,7 @@ export function ExploreSidebar({ onProfileClick }: Props) {
           <span>·</span>
           <a href="#" className="hover:underline">Terms</a>
         </div>
-        <p>© 2026 CampusConnect</p>
+        <p>© 2026 VYB</p>
       </div>
     </div>
   );

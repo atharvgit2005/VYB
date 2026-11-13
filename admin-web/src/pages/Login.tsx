@@ -34,7 +34,7 @@ export default function Login() {
       <div className="bg-white p-8 rounded-xl shadow-lg w-full max-w-md">
         <div className="text-center mb-8">
           <h1 className="text-3xl font-bold text-gray-800">Admin Login</h1>
-          <p className="text-gray-500 mt-2">Sign in to manage CampusConnect</p>
+          <p className="text-gray-500 mt-2">Sign in to manage VYB</p>
         </div>
 
         {error && (

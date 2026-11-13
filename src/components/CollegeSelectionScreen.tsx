@@ -43,7 +43,7 @@ export function CollegeSelectionScreen({ onSelectCollege, isDarkMode, onToggleTh
         <div className="flex justify-between items-center mb-8">
           <div>
             <h1 className="text-3xl font-bold bg-gradient-to-r from-purple-600 to-pink-600 bg-clip-text text-transparent">
-              CampusConnect
+              VYB
             </h1>
             <p className="text-gray-600 dark:text-gray-400 mt-1">Find your community</p>
           </div>

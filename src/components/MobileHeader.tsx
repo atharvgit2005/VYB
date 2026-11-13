@@ -63,9 +63,9 @@ export function MobileHeader({
       <div className="flex items-center justify-between">
         <div className="flex items-center gap-2">
           <div className="w-8 h-8 bg-[#D4FF00] rounded-lg flex items-center justify-center">
-            <span className="text-black font-bold text-lg">C</span>
+            <span className="text-black font-bold text-lg">V</span>
           </div>
-          <h1 className="text-xl font-bold text-black">CampusConnect</h1>
+          <h1 className="text-xl font-bold text-black">VYB</h1>
         </div>
         <div className="flex items-center gap-3">
           {/* Mode Switch Button - shows where you're GOING */}
